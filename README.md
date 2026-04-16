@@ -123,8 +123,8 @@ Employees in their **first two years** at the company show significantly higher 
 
 Feel free to reach out or connect:
 
-- **GitHub:** [your-username](https://github.com/joaolouzada12)
-- **LinkedIn:** [your-profile](https://www.linkedin.com/in/jo%C3%A3o-louzada-402503219/)
+- **GitHub:** [joaolouzada12](https://github.com/joaolouzada12)
+- **LinkedIn:** [João Louzada](https://www.linkedin.com/in/jo%C3%A3o-louzada-402503219/)
 
 ---
 
